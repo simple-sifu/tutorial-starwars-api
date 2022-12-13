@@ -16,6 +16,7 @@ https://swapi.dev/api/people/?page=1
 1. Promise - async operation that is put on call queue and has to wait until all other sequential operations are done before it can be executed. ie. Fetch api. When it is executed the then(s) will then be executed sequentially.
 2. textNode - store each property of star wars characters in here and append to div.
 3. reusable code - try to put together all repeated lines of code.
+4. Flexbox - there always needs to be a parent-child heirarchy, i.e. container which holds child items 
 
 
 # Plan of attack

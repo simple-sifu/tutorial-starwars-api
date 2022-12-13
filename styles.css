@@ -1,0 +1,25 @@
+.cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: black solid 1px;
+    width: 300px;
+    padding: 20px;
+    background: white;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background: black;
+}
