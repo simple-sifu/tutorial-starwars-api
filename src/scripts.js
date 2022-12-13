@@ -1,5 +1,6 @@
 console.log("load scripts");
 
+
 const loadCharacters = () => {
     console.log("loadCharacters");
     fetch('https://swapi.dev/api/people')

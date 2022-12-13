@@ -11,6 +11,12 @@ https://swapi.dev/api/people/?page=1
 4. previous - privides url for previous page. Used when user hits back button
 5. results - contain array of 10 characters
 
+# Programming Concepts
+
+1. Promise - async operation that is put on call queue and has to wait until all other sequential operations are done before it can be executed. ie. Fetch api. When it is executed the then(s) will then be executed sequentially.
+2. textNode - store each property of star wars characters in here and append to div.
+3. reusable code - try to put together all repeated lines of code.
+
 
 # Plan of attack
 
