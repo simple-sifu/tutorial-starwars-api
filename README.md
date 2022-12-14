@@ -32,6 +32,13 @@ https://swapi.dev/api/people/?page=1
 9. add flexbox
 10. make it prettier with padding and background
 
+# github commands
+
+1. git add .
+2. git commit -a
+3. git push origin main
+4. git clone https://github.com/simple-sifu/tutorial-starwars-api
+
 
 # Final Product
 
