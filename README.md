@@ -31,3 +31,15 @@ https://swapi.dev/api/people/?page=1
 8. create a red border around each div by using class
 9. add flexbox
 10. make it prettier with padding and background
+
+# github commands
+
+1. git add .
+2. git commit -a
+3. git push origin main
+4. git clone https://github.com/simple-sifu/tutorial-starwars-api
+
+
+# Final Product
+
+<img width="1405" alt="Screen Shot 2022-12-13 at 6 32 05 PM" src="https://user-images.githubusercontent.com/36891099/207467936-ab02c0df-882d-49dd-b5e1-9d78b703723d.png">
