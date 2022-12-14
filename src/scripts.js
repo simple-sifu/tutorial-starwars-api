@@ -50,7 +50,7 @@ const addToDivToCard = (charObj, index) => {
             // const linkText = document.createTextNode(`${key}: ${key + displayIndex} `);
             // divElement.appendChild(aElement)
         }else {
-            divElement.appendChild(document.createTextNode(`${key}: ${charObj[key]}`))
+            divElement.appendChild(document.createTextNode(`${key}: ${value}`))
             divElement.appendChild(document.createElement(`br`));
         }
  
